@@ -1,0 +1,12 @@
+# os/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# future build outputs (if adding tooling later)
+dist/
+build/
+node_modules/
+
+# env
+.env
